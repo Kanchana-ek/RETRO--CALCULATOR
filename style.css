@@ -96,7 +96,7 @@ body {
   
 }
 
-button {
+.button {
   height: 46px;
   border: none;
   border-radius: 6px;
@@ -129,5 +129,6 @@ button {
 .zero {
   grid-column: span 2;
 }
+
 
 
